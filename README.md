@@ -11,7 +11,7 @@ Horiseon aims to assist a business in their adventure to gaining an online prese
 https://mimi5930.github.io/horiseon-refactor/
 
 ## Contribution
-Made by Horiseon Social Solution Services
+Made by Horiseon Social Solution Services  
 Refactored by Michael Miller
 
 ### @2019 Horiseon Social Solution Services, Inc.
