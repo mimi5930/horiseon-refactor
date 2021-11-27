@@ -10,7 +10,10 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header Style*/
+/* Universal Style End */
+
+
+/* Header Style */
 
 header {
     padding: 20px;
@@ -27,6 +30,9 @@ header h1 {
 .seo {
     color: #d9dcd6;
 }
+
+/* Header Style End */
+
 
 /* Navigation Style */
 
@@ -56,6 +62,9 @@ p {
     font-size: 16px;
 }
 
+/* Navigation Style End*/
+
+
 /* Hero Style */
 
 .hero {
@@ -66,6 +75,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Hero Style End */
+
 
 /* Content Style */
 
@@ -103,6 +115,9 @@ p {
     font-size: 36px;
 }
 
+/* Content Style End */
+
+
 /* Benefits Style */
 
 .benefits {
@@ -132,6 +147,9 @@ p {
     max-width: 150px;
 }
 
+/* Benefits Style End */
+
+
 /* Footer */
 
 footer {
@@ -144,3 +162,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* Footer End */
